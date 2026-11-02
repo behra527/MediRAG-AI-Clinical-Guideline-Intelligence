@@ -1,4 +1,4 @@
-# 🩺 MediRAG AI — Clinical Guideline Intelligence Platform
+# 🩺 MediRAG AI  Clinical Guideline Intelligence Platform
 
 ![Python](https://img.shields.io/badge/Python-3.13-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black)
